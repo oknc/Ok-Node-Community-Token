@@ -11,6 +11,6 @@ OKNC核心目标
 
 # 二、管理邮箱： admin@oknc.club
 
-# 三、官网：www.oknode.club
+# 三、官网：https://www.oknode.club
 
 # 四、白皮书（附件）: https://www.oknode.club/whitepaper/OKNCwhitePaper.pdf
